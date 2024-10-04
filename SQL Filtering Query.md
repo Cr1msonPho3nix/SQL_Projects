@@ -19,6 +19,7 @@ You are responsible for finding the required information by querying a database.
   - Employees information table is **employees**.
   - Departments information row is **department**.
   - Departments that you want to filter are **Finance** and **Sales**.<br><br>
+
 Sorting 'Finance' employees:<br><br>
 ![Select_finance](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/img/Filtering%20Query/3.1.Select_finance.PNG)<br>
 Sorting 'Sales' employees:<br><br>
@@ -29,5 +30,5 @@ Sorting 'Sales' employees:<br><br>
   - Office information columnn name is **office**.<br><br>
 ![Select_office_alone](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/img/Filtering%20Query/4.1.select_office_alone.PNG)<br>
 
-2. Next, your team has determined that there is an issue with all the machines in the South building. Offices in the organization are named with the building name, a hyphen, and the office number in that building (for example, 'South-109').<br>
+2. Next, your team has determined that there is an issue with all the machines in the South building. Offices in the organization are named with the building name, a hyphen, and the office number in that building (for example, 'South-109').<br><br>
 ![Select_office_all](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/img/Filtering%20Query/4.2.select_office_all.PNG)<br>
