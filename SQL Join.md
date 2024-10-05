@@ -15,5 +15,5 @@ Right Join<br><br>
 ![right_join](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/img/Join/2.2.right_join.PNG)<br><br>
 
 ## 3. Retrieve login attempt data
-- To continue investigating the security incident, you must retrieve the information on all employees who have made login attempts. To achieve this, you’ll perform an inner join on the employees and log_in_attempts tables, linking them on the common username column.<br>
+- To continue investigating the security incident, you must retrieve the information on all employees who have made login attempts. To achieve this, you’ll perform an inner join on the employees and log_in_attempts tables, linking them on the common username column.<br><br>
 ![inner_join_user_login_attempt](https://github.com/Cr1msonPho3nix/SQL_Projects/blob/main/img/Join/3.inner_join_user_login_attempt.PNG)<br>
